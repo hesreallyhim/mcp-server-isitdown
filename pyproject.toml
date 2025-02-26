@@ -1,0 +1,10 @@
+[project]
+name = "mcp-isitdown-service"
+version = "0.0.1"
+description = "An MCP server that checks if a website is currently down by querying the website isitdown.com"
+authors = [
+    { name = "Really Him", email = "hesreallyhim@proton.me" }
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

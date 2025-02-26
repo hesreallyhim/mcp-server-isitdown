@@ -29,10 +29,13 @@ def get_website_status(root_domain: str) -> str:
         return "Could not determine the status of the website."
     soup = bs(response.text, "html.parser")
     is_up = soup.find("span", class_="upicon")
+    is_down = soup.find("span", class_="downicon")
     if is_up:
         return "The website is up."
-    else:
+    elif is_down:
         return "The website is down."
+    else:
+        return "Could not determine the status of the website."
 
 if __name__ == "__main__":
     mcp.run(transport='stdio')

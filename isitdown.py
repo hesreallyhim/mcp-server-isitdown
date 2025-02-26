@@ -10,6 +10,16 @@ USER_AGENT = "isitdown-app/0.0.1"
 
 @mcp.tool()
 def get_website_status(root_domain: str) -> str:
+    """
+    Check the status of a website.
+    This function takes a root domain as input and checks whether the website is up or down
+    by making a request to isitdownrightnow.com
+    Args:
+        root_domain (str): The root domain of the website to check.
+    Returns:
+        str: A message indicating whether the website is up or down, or if the status could not be determined.
+    """
+    
     try:
         response = requests.get(
             f"{ISITDOWN_BASE_URL}{root_domain}", headers={"User-Agent": USER_AGENT}

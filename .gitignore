@@ -10,3 +10,6 @@ wheels/
 # Virtual environments
 .venv
 venv
+
+# Python version
+.python-version

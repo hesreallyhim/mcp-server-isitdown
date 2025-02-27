@@ -1,6 +1,6 @@
 [project]
 name = "mcp-isitdown-service"
-version = "0.0.1"
+version = "0.0.2"
 description = "An MCP server that checks if a website is currently down by querying the website isitdownrightnow.com"
 authors = [
     { name = "Really Him", email = "hesreallyhim@proton.me" }
@@ -13,3 +13,6 @@ dependencies = [
     "requests>=2.32.3",
     "types-requests>=2.32.0.20241016",
 ]
+
+[tool.pyright]
+typeCheckingMode = "basic"

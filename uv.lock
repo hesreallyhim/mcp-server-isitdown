@@ -163,7 +163,7 @@ cli = [
 [[package]]
 name = "mcp-isitdown-service"
 version = "0.0.2"
-source = { virtual = "." }
+source = { editable = "." }
 dependencies = [
     { name = "beautifulsoup4" },
     { name = "httpx" },

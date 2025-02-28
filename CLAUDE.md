@@ -181,3 +181,162 @@ mcp run server.py
 | Prompts | User-controlled | Templates invoked by user choice | Slash commands, menu options |
 | Resources | App-controlled | Contextual data managed by client | File contents, API responses |
 | Tools | Model-controlled | Functions for LLM to take actions | API calls, data updates |
+
+# EXAMPLE OF A GOOD MCP SERVER README:
+
+# mcp-server-git: A git MCP server
+
+## Overview
+
+A Model Context Protocol server for Git repository interaction and automation. This server provides tools to read, search, and manipulate Git repositories via Large Language Models.
+
+Please note that mcp-server-git is currently in early development. The functionality and available tools are subject to change and expansion as we continue to develop and improve the server.
+
+### Tools
+
+1. `git_status`
+   - Shows the working tree status
+   - Input:
+     - `repo_path` (string): Path to Git repository
+   - Returns: Current status of working directory as text output
+
+2. `git_diff_unstaged`
+   - Shows changes in working directory not yet staged
+   - Input:
+     - `repo_path` (string): Path to Git repository
+   - Returns: Diff output of unstaged changes
+
+3. `git_diff_staged`
+   - Shows changes that are staged for commit
+   - Input:
+     - `repo_path` (string): Path to Git repository
+   - Returns: Diff output of staged changes
+
+## Installation
+
+### Using uv (recommended)
+
+When using [`uv`](https://docs.astral.sh/uv/) no specific installation is needed. We will
+use [`uvx`](https://docs.astral.sh/uv/guides/tools/) to directly run *mcp-server-git*.
+
+### Using PIP
+
+Alternatively you can install `mcp-server-git` via pip:
+
+```
+pip install mcp-server-git
+```
+
+After installation, you can run it as a script using:
+
+```
+python -m mcp_server_git
+```
+
+## Configuration
+
+### Usage with Claude Desktop
+
+Add this to your `claude_desktop_config.json`:
+
+<details>
+<summary>Using uvx</summary>
+
+```json
+"mcpServers": {
+  "git": {
+    "command": "uvx",
+    "args": ["mcp-server-git", "--repository", "path/to/git/repo"]
+  }
+}
+```
+</details>
+
+<details>
+<summary>Using pip installation</summary>
+
+```json
+"mcpServers": {
+  "git": {
+    "command": "python",
+    "args": ["-m", "mcp_server_git", "--repository", "path/to/git/repo"]
+  }
+}
+```
+</details>
+
+## Debugging
+
+You can use the MCP inspector to debug the server. For uvx installations:
+
+```
+npx @modelcontextprotocol/inspector uvx mcp-server-git
+```
+
+Or if you've installed the package in a specific directory or are developing on it:
+
+```
+cd path/to/servers/src/git
+npx @modelcontextprotocol/inspector uv run mcp-server-git
+```
+
+Running `tail -n 20 -f ~/Library/Logs/Claude/mcp*.log` will show the logs from the server and may
+help you debug any issues.
+
+## Development
+
+If you are doing local development, there are two ways to test your changes:
+
+1. Run the MCP inspector to test your changes. See [Debugging](#debugging) for run instructions.
+
+2. Test using the Claude desktop app. Add the following to your `claude_desktop_config.json`:
+
+### Docker
+
+```json
+{
+  "mcpServers": {
+    "git": {
+      "command": "docker",
+      "args": [
+        "run",
+        "--rm",
+        "-i",
+        "--mount", "type=bind,src=/Users/username/Desktop,dst=/projects/Desktop",
+        "--mount", "type=bind,src=/path/to/other/allowed/dir,dst=/projects/other/allowed/dir,ro",
+        "--mount", "type=bind,src=/path/to/file.txt,dst=/projects/path/to/file.txt",
+        "mcp/git"
+      ]
+    }
+  }
+}
+```
+
+### UVX
+```json
+{
+"mcpServers": {
+  "git": {
+    "command": "uv",
+    "args": [ 
+      "--directory",
+      "/<path to mcp-servers>/mcp-servers/src/git",
+      "run",
+      "mcp-server-git"
+    ]
+  }
+}
+```
+
+## Build
+
+Docker build:
+
+```bash
+cd src/git
+docker build -t mcp/git .
+```
+
+## License
+
+This MCP server is licensed under the MIT License. This means you are free to use, modify, and distribute the software, subject to the terms and conditions of the MIT License. For more details, please see the LICENSE file in the project repository.

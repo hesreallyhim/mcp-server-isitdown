@@ -3,12 +3,12 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mcp-isitdown-service"
-version = "0.0.3"
+name = "mcp-server-isitdown"
 description = "An MCP server that checks if a website is currently down by querying the website isitdownrightnow.com"
 authors = [
     { name = "Really Him", email = "hesreallyhim@proton.me" }
 ]
+dynamic = ["version"]
 readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.12"
@@ -31,13 +31,20 @@ dependencies = [
     "httpx>=0.26.0",
 ]
 [project.optional-dependencies]
-dev = ["pre-commit"]
+dev = [
+    "pre-commit",
+    "mypy",
+    "types-beautifulsoup4",
+]
 
 [project.scripts]
-mcp-isitdown = "mcp_isitdown.__main__:main"
+mcp-server-isitdown = "mcp_server_isitdown.__main__:main"
 
 [project.urls]
-"Bug Tracker" = "https://github.com/hesreallyhim/mcp-isitdown-service/issues"
+Homepage = "https://github.com/hesreallyhim/mcp-server-isitdown"
+Repository = "https://github.com/hesreallyhim/mcp-server-isitdown.git"
+Documentation = "https://github.com/hesreallyhim/mcp-server-isitdown#readme"
+"Bug Tracker" = "https://github.com/hesreallyhim/mcp-server-isitdown/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
@@ -54,3 +61,18 @@ include = '\.pyi?$'
 profile = "black"
 line_length = 88
 multi_line_output = 3
+
+[tool.mypy]
+python_version = "3.12"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+
+[[tool.mypy.overrides]]
+module = "httpx.*"
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = "mcp.*"
+ignore_missing_imports = true

@@ -2,8 +2,7 @@
 Main entry point for the MCP isitdown server.
 """
 
-from mcp_isitdown.server import mcp
-
+from mcp_server_isitdown.server import mcp
 
 def main() -> None:
     """Run the MCP server with stdio transport."""

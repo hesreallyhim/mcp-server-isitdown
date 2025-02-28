@@ -1,6 +1,6 @@
 import asyncio
 
-import requests
+import httpx
 from bs4 import BeautifulSoup as bs
 from bs4.element import Tag
 from mcp.server.fastmcp import FastMCP
@@ -40,11 +40,14 @@ async def get_website_status(root_domain: str) -> str:
 
     last_down_time = "Could not determine information about the last down time."
     try:
-        response = requests.get(
-            f"{ISITDOWN_BASE_URL}{root_domain}", headers={"User-Agent": USER_AGENT}
-        )
-        response.raise_for_status()
-    except requests.RequestException as e:
+        async with httpx.AsyncClient() as client:
+            response = await client.get(
+                f"{ISITDOWN_BASE_URL}{root_domain}",
+                headers={"User-Agent": USER_AGENT},
+                timeout=10.0,
+            )
+            response.raise_for_status()
+    except httpx.HTTPError:
         return "Could not determine the status of the website."
     soup = bs(response.text, "html.parser")
     is_up = soup.find("span", class_="upicon")

@@ -5,4 +5,4 @@ This package provides an MCP server that checks if websites are currently down
 by querying the isitdownrightnow.com service.
 """
 
-__version__ = "0.0.2"
+__version__ = "0.0.3"

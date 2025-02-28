@@ -1,9 +1,15 @@
 # MCP-isitdown Project Guidelines
 
 ## Build & Development Commands
-- Run the server: `python isitdown.py`
+- Run the server: `uv run isitdown.py`
 - Type checking: `pyright` or `pyright isitdown.py`
-- Install dependencies: `pip install -e .` or with `uv`
+- Install dependencies: `uv pip install -e .`
+
+Note: `uv` is the preferred tool for this project for running Python and managing dependencies
+
+## Version Control
+- Always use conventional commits for commit messages (feat:, fix:, docs:, chore:, etc.)
+- Follow the pattern: type(scope): description
 
 ## Code Style Guidelines
 - Python 3.12+ compatible code

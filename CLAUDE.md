@@ -134,16 +134,16 @@ The Context object gives access to MCP capabilities:
 async def process_file(file_path: str, ctx: Context) -> str:
     # Log message to client
     ctx.info(f"Processing {file_path}")
-    
+
     # Report progress
     await ctx.report_progress(0, 1)
-    
+
     # Read another resource
     data, mime_type = await ctx.read_resource(f"file://{file_path}")
-    
+
     # Access lifespan context
     db = ctx.request_context.lifespan_context["db"]
-    
+
     return "Processing complete"
 ```
 

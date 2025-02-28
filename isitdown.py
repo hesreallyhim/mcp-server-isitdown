@@ -1,6 +1,5 @@
-import asyncio
-
 import httpx
+
 from bs4 import BeautifulSoup as bs
 from bs4.element import Tag
 from mcp.server.fastmcp import FastMCP
@@ -24,6 +23,24 @@ def get_last_down(last_down_row: Tag) -> str:
         return "Last down time not found."
     else:
         return f"Last down time is: {last_down_time.text.strip()}"
+
+
+def get_response_msg(is_down: bool, is_up: bool, last_down_time: str) -> str:
+    """
+    Format the response message based on website status.
+    Args:
+        is_down (bool): Whether the website is down.
+        is_up (bool): Whether the website is up.
+        last_down_time (str): The last time the website was down.
+    Returns:
+        str: Formatted status message.
+    """
+    if is_down:
+        return f"The website is down. {last_down_time}"
+    elif is_up:
+        return f"The website is up. {last_down_time}"
+    else:
+        return "Could not determine the status of the website."
 
 
 @mcp.tool()
@@ -54,16 +71,11 @@ async def get_website_status(root_domain: str) -> str:
     is_down = soup.find("span", class_="downicon")
     tabletrsimple_divs = soup.find_all("div", class_="tabletrsimple")
     if len(tabletrsimple_divs) >= 2:
-        last_down_row = tabletrsimple_divs[1]  # NOTE: Brittle.
+        last_down_row = tabletrsimple_divs[1]  # NOTE: Brittle - makes assumptions about HTML structure
         if isinstance(last_down_row, Tag):
             last_down_time = get_last_down(last_down_row)
-    if is_down:
-        return f"The website is down. {last_down_time}."
-    elif is_up:
-        return f"The website is up. {last_down_time}."
-    else:
-        return "Could not determine the status of the website."
+    return get_response_msg(bool(is_down), bool(is_up), last_down_time)
 
 
 if __name__ == "__main__":
-    asyncio.run(mcp.run_stdio_async())
+    mcp.run(transport="stdio")

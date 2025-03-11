@@ -2,6 +2,10 @@
 
 An MCP server that checks if a website is currently down by querying [www.isitdownrightnow.com](https://www.isitdownrightnow.com).
 
+<a href="https://glama.ai/mcp/servers/1wx4z4amkm">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/1wx4z4amkm/badge" alt="IsItDown Server MCP server" />
+</a>
+
 ## Overview
 
 This MCP server provides a simple tool to check if a website is experiencing downtime, and can provide some information about recent downtime events.

@@ -1,5 +1,5 @@
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hesreallyhim-mcp-server-isitdown-badge.png)](https://mseep.ai/app/hesreallyhim-mcp-server-isitdown)
-
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/24e83a9a-3b58-48c5-a490-04d6a631ed1e)
 # mcp-server-isitdown
 
 An MCP server that checks if a website is currently down by querying [www.isitdownrightnow.com](https://www.isitdownrightnow.com).

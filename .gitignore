@@ -11,3 +11,9 @@ wheels/
 # Virtual environments
 .venv
 venv
+
+# Claude Code
+CLAUDE.md
+.claude/
+
+.DS_STORE

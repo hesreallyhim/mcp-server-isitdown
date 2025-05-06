@@ -7,7 +7,11 @@ from bs4 import BeautifulSoup as bs
 from bs4.element import Tag
 from mcp.server.fastmcp import FastMCP
 
-mcp = FastMCP("isitdown", "Help the user determine if a website is down or not.")
+mcp = FastMCP(
+    "isitdown",
+    "Help the user determine if a website is down or not.",
+    dependencies=["beautifulsoup4", "httpx"]
+)
 
 ISITDOWN_BASE_URL = "https://www.isitdownrightnow.com/check.php?domain="
 USER_AGENT = "mcp-isitdown-server/0.0.2"
@@ -89,3 +93,19 @@ async def get_website_status(root_domain: str) -> str:
             last_down_time = get_last_down(last_down_row)
 
     return get_response_msg(bool(is_down), bool(is_up), last_down_time)
+
+@mcp.prompt()
+def echo_prompt(website: str) -> str:
+    """Check the status of a website.
+    
+    Args:
+        website (str): The website to check.
+    Returns:
+        str: A message indicating the status of the website.
+    """
+    return f"Please check the status of the website: {website}"
+
+@mcp.prompt()
+def informal_prompt() -> str:
+    """Check the status of Facebook using informal language."""
+    return "Hey, do you know if Facebook is down right now?"

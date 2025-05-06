@@ -1,0 +1,1426 @@
+Name,Url
+AppVeyor,https://status.appveyor.com
+Aviator,https://status.aviator.co
+Bitrise,https://status.bitrise.io
+Circle CI,https://status.circleci.com
+CloudMQTT,https://status.cloudmqtt.com
+codefresh,http://status.codefresh.io
+codeship,http://codeship.statuspage.io
+Currents,https://currents.instatus.com
+Digital Pigeon,https://status.digitalpigeon.com
+GatherContent,https://status.gathercontent.com/#
+harness,https://status.harness.io
+hasura,https://status.hasura.io
+jellyfish,https://status.jellyfish.co
+jenkins,https://status.jenkins.io
+nintex,https://status.nintex.com
+keypup,https://status.keypup.io
+maestroqa,https://status.maestroqa.com
+lingk,https://status.lingk.io
+octopus,https://status.octopus.com
+pdq,https://pdq.statuspage.io
+permit-io,https://permit-io.instatus.com
+prefect,https://prefect.status.io
+progress-telerik,https://status.telerik.com
+pulumi,https://status.pulumi.com
+semaphore,http://status.semaphoreci.com
+servicerocket,https://status.servicerocket.com
+sharegate,https://app-status.sharegate.com
+simplyq,https://simplyq.statuspage.io
+sleuth,https://status.sleuth.io
+spacelift,https://spacelift.statuspage.io
+subsplash,https://status.subsplash.com
+temporal,https://status.temporal.io
+thru,https://status.thruinc.com
+webappio,https://rootly.com/teams/layerci/status-pages/webapp-io-status-page/public
+xporter,https://xporter.statuspage.io
+acquia,https://status.acquia.com
+actionstep,https://status.actionstep.com
+adalo,https://status.adalo.com
+adaptavist-cloud-apps,https://status.connect.adaptavist.com
+akamai-edge-dns,https://edgedns.status.akamai.com
+alibaba-cloud,https://status.alibabacloud.com
+alphavps,https://status.alphavps.com
+amazon-web-services,https://status.aws.amazon.com
+apaleo,https://status.apaleo.com
+apigee,https://status.apigee.com
+appian,https://www.appian.com/trust/status
+apple,https://www.apple.com/support/systemstatus
+apple-developer,https://developer.apple.com/system-status
+appsflyer,https://status.appsflyer.com
+aqua,https://status.aquasec.com
+arista-cloudvision,https://status.arista.io
+armor,https://status.armor.com
+aspex,https://status.aspex.be
+athennian,https://athennian.statuspage.io
+avanan,https://status.avanan.com
+avaya-cloud,https://status.avayacloud.com
+axcient,https://status.axcient.com
+axiom,https://status.axiom.co
+azure,https://azure.microsoft.com/en-us/status
+balena,https://status.balena.io
+bandwidth,http://status.bandwidth.com
+bexio,https://www.bexio-status.com
+bittitan,https://status.bittitan.com
+bizzabo,https://status.bizzabo.com
+blend,https://status.blend.com
+bluejeans,http://status.bluejeans.com
+blue-jeans-network,https://status.bluejeans.com
+brivo,https://status.brivo.com
+broadcom-cloud-swg,https://status.broadcom.com/services/cloud-secure-web-gateway
+broadcom-arcot,https://status.broadcom.com/services/arcot
+broadcom-continuous-delivery-director,https://cdd.status.broadcom.com
+broadcom-dx-saas,https://dx.status.broadcom.com
+broadcom-edge-secure-web-gateway,https://status.broadcom.com/services/edge-secure-web-gateway
+broadcom-layer7-api-management,https://layer7.status.broadcom.com
+broadcom-rally,https://status.broadcom.com/services/rally
+broadcom-symantec-endpoint-security-enterprise,https://status.broadcom.com/services/symantec-endpoint-security-enterprise
+bunny,https://status.bunny.net
+calix,https://trust.calix.com
+caseware-cloud,https://status.casewarecloud.com
+catalyst-cloud,https://status.catalystcloud.nz
+ceros,https://status.ceros.com
+chromatic,https://status.chromatic.com
+cisco-iot,https://status.ciscoiot.com
+cisco-secure-endpoint,https://status.amp.cisco.com
+cisco-umbrella,https://status.umbrella.com
+citrix-cloud,https://status.cloud.com
+cloud-66,http://status.cloud66.com
+cloudblue-connect,https://status.connect.cloudblue.com
+cloudcheckr,https://trust.cloudcheckr.com
+cloudera,https://status.cloudera.com
+cloudfanatic,https://status.cloudfanatic.net
+cloudsigma,https://status.cloudsigma.com
+cloudways,http://status.cloudways.com
+cockroach-labs,https://status.cockroachlabs.cloud
+cocoapods,https://status.cocoapods.org
+confluent,https://status.confluent.cloud
+coreweave,https://status.coreweave.com
+coveo-cloud,https://status.cloud.coveo.com
+cradlepoint,https://status.cradlepoint.com
+current-rms,https://status.current-rms.com
+databox,https://status.databox.com
+datarobot,https://status.datarobot.com
+dbt-cloud,https://status.getdbt.com
+dediserve,http://www.dediservestatus.com
+dell-boomi,https://status.boomi.com
+digitalocean,https://status.digitalocean.com
+divio,https://status.divio.com
+dns-made-easy,https://dnsstatus.com
+docevent,https://docevent.instatus.com
+dogado,https://status.dogado.de
+doit,https://status.doit.com
+dongee,https://status.dongee.com
+doppler,https://www.dopplerstatus.com
+drchrono,https://status.drchrono.com
+drmtoday,https://status.drmtoday.com
+dronedeploy,https://status.dronedeploy.com
+dyn,https://www.dynstatus.com
+dynamix-cloud,http://status.dynamixcloud.com
+dynatrace,https://dynatrace.status.io
+easypost,https://www.easypoststatus.com
+ecostruxure-it,https://status.ecostruxureit.com
+egnyte,https://status.egnyte.com
+ekco,https://ukstatus.ek.co
+elasticio,https://status.elastic.io
+ellucian,https://status.elluciancloud.com
+emnify,https://status.emnify.com
+empist,http://status.empist.com
+engine-yard,https://engineyard.statuspage.io
+esker,https://www.trustesker.com
+eurafibre,https://statut.eurafibre.fr
+exoscale,https://exoscalestatus.com
+f5,https://www.f5cloudstatus.com
+filepicker,http://status.filestack.com
+firebase,https://status.firebase.google.com
+flagsmith,https://flagsmith.statuspage.io
+flatfile,https://status.flatfile.io
+flow-swiss,https://status.flow.swiss
+flyio,https://status.fly.io
+forticlient-cloud,https://forticlient-status.forticloud.com
+fortiweb-cloud,https://status.fortiweb-cloud.com
+freshbooks,https://status.freshbooks.com
+freshworks-crm,https://crmstatus.freshworks.com
+frontify,https://status.frontify.com
+gathercontent,https://status.gathercontent.com/#
+g-core-labs,https://statuspage.gcorelabs.com
+genesys-cloud,https://status.mypurecloud.com
+gitlabhost,https://status.gitlabhost.com
+glesys,https://status.glesys.com
+google-cloud,https://status.cloud.google.com
+google-maps-platform,https://status.cloud.google.com/maps-platform
+gportal,https://status.g-portal.com
+granicus,https://status.granicusops.com
+green-cloud-technologies,https://status.grncld.net
+guidewire,https://status.guidewire.com
+hashicorp,https://status.hashicorp.com
+heart-internet,https://www.heartstatus.uk
+heroku,https://status.heroku.com
+hetzner,https://status.hetzner.com
+hevo,https://status.hevodata.com
+hivebrite,https://status.hivebrite.com
+hostifi,https://status.hostifi.com
+hostpapa,https://www.hostpapastatus.com
+ibm-aspera,https://status.aspera.io
+ibm-cloud,https://cloud.ibm.com/status?selected=status
+infoblox,https://status.infoblox.com
+ingage,https://status.ingage.jp
+inspera,https://status.inspera.no
+ionos-cloud,https://status.ionos.cloud
+iscorp,https://www.iscorp.com/outage-status
+ivanti-cloud,https://status.ivanticloud.com
+jama-software,https://status.jamasoftware.com
+jitpack,https://status.jitpack.io
+juicefs,http://status.juicefs.io
+k6,https://status.k6.io
+keypup,https://status.keypup.io
+kinghost,https://status.kinghost.net.br
+kualo,https://status.kualo.com
+layerstack,https://status.layerstack.com
+leaseweb,https://www.leasewebstatus.com
+lifesize-cloud,http://status.lifesizecloud.com
+lightstep,https://status.lightstep.com
+lingk,https://status.lingk.io
+linode,https://status.linode.com
+liveramp,https://status.liveramp.com
+logz,https://status.logz.io
+loopup,https://status.loopup.com
+lotame,https://status.lotame.com
+lumaserv,https://status.lumaserv.com
+magemojo,https://status.magemojo.com
+magnus-box,https://status.magnusbox.com
+matillion,https://status.matillion.com
+mavenlink-,https://status.mavenlink.com
+micloud-connect,https://oneview.mitel.com/s/trust
+neon,https://neonstatus.com
+netapp,https://status.services.cloud.netapp.com
+netfortris,https://trust.netfortris.com
+netlify,https://netlifystatus.com
+netskope,https://trust.netskope.com
+ngenix,https://ngenix.statuspage.io
+nhost,https://status.nhost.io
+nisc-cloud,https://status.cloud.coop
+ns1,https://ns1status.com
+nutanix,https://status.nutanix.com
+nylas,https://status.nylas.com
+opencrm,https://sorry.opencrm.co.uk
+opensrs,https://www.opensrsstatus.com
+openvpn,https://status.openvpn.com
+oracle-cloud,https://ocistatus.oraclecloud.com
+otava,https://status.otava.com
+ovhcloud,https://status.us.ovhcloud.com
+packet,http://status.packet.net
+paperspace,https://status.paperspace.com
+perimeterx,https://status.perimeterx.com
+pingplotter-cloud,https://status.pingplotter.cloud
+platform9,https://status.platform9.com
+platformsh,https://status.platform.sh
+playfab,https://status.playfab.com
+playvox,https://status.playvox.com
+plum-voice,https://status.plumvoice.com
+plusserver,https://status.plusserver.com
+practice-fusion,https://status.practicefusion.com
+presslabs,https://status.presslabs.com
+printix,https://status.kofaxcloud.com
+prisma-cloud,https://status.prismacloud.com
+pubnub,http://status.pubnub.com
+qlik,https://status.qlikcloud.com
+quay,https://status.quay.io
+racknerd,https://status.racknerd.com
+rackspace,https://status.apps.rackspace.com
+radware-cloud-waf,https://cwaf.status.radwarecloud.com
+railway,https://railway.instatus.com
+red-canary,https://status.redcanary.com
+red-hat,https://status.redhat.com
+redisgreen,https://status.redisgreen.net/services/1
+render,https://status.render.com
+reviewtrackers,http://status.reviewtrackers.com
+ringover,https://status.ringover.com
+rivery,https://status.rivery.io
+roam,https://www.roamstatus.com
+rout-it,https://cspreporter.nl/storingen
+rubrik,https://status.rubrik.com
+sailpoint,https://status.sailpoint.com
+sap-for-me--sap-one-support-launchpad,https://status.support.sap.com
+Scaleway,https://status.scaleway.com
+Scalingo,https://scalingostatus.com
+SCORM Cloud,https://status.cloud.scorm.com
+ScoutDNS,https://status.scoutdns.com
+Section,https://status.section.io
+Servebolt,https://serveboltstatus.com
+Servers Australia,https://status.mysau.com.au
+SG Test,https://sgtest1.statuspage.io
+Sherweb,https://status.sherweb.com
+Shockbyte,https://status.shockbyte.com
+SignalFx EU0,https://status.eu0.signalfx.com
+SignalFx US0,https://status.us0.signalfx.com
+SignalFx US1,https://status.us1.signalfx.com
+Simply Hosting & Servers,https://status.simplyhosting.com
+SkyKick,https://status.skykick.com
+SkySilk,https://status.skysilk.com
+SmugMug,https://status.smugmug.com
+SnapLogic,https://trust.snaplogic.com
+Snapsheet,https://status.snapsheetclaims.com
+SolarWinds Loggly,https://status.loggly.com
+Soracom,https://status.soracom.com
+Spiceworks,https://status.spiceworks.com
+SPS Commerce,https://status.spscommerce.com
+StackPath,https://status.stackpath.com
+Storj,https://status.storj.io
+SugarSync,https://status.sugarsync.com
+Sumo Logic US1,http://status.us1.sumologic.com
+Taloflow,https://status.taloflow.ai
+Teradici,https://status.teradici.com
+TeraSwitch,https://www.teraswitchstatus.com
+ThousandEyes,https://status.thousandeyes.com
+TIBCO,https://status.cloud.tibco.com
+Tricentis Flood,https://status.flood.io
+Trifacta,https://status.trifacta.com
+TriNet,https://status.trinetcloud.com
+Ubidots,https://status.ubidots.com
+UJET,http://status.ujet.co
+UltraDNS,https://status.ultradns.com
+Umbraco Cloud,https://status.umbraco.io
+uniFLOW Online,https://status.uniflowonline.com
+United Hoster GmbH,https://status.united-hoster.de
+UpCloud,https://status.upcloud.com
+Uploadcare,https://status.uploadcare.com
+Velocity Host,https://status.velocityhost.com.au
+Vercel,https://www.vercel-status.com
+Vetspire,https://status.vetspire.com
+vGRID Cloud Services,https://status.vgrid.nz
+VMWare Cloud Services,https://status.vmware-services.io
+Voltage,https://status.voltage.cloud
+Vonage Business,https://businesssupport.vonage.com/trust
+Voximplant,https://status.voximplant.com
+VPSServer,https://status.vpsserver.com
+Vultr,https://status.vultr.com
+Walkme,https://status.walkme.com
+Wasabi,https://status.wasabi.com
+Webdam,https://webdam-status.bynder.com
+Webshare,https://status.webshare.io
+Wiz,https://status.wiz.io
+Workiva,https://status.workiva.com
+Yandex Cloud,https://status.cloud.yandex.com/dashboard
+yasoon,https://status.yasoon.com
+ZenQMS,https://status.zenqms.com
+Zscaler Cloud,https://trust.zscaler.com/cloud-status
+Aiven,https://status.aiven.io
+Algolia,https://status.algolia.com
+Apollo,http://status.apollographql.com
+Basedash,https://status.basedash.com
+Bonsai Elasticsearch,https://status.bonsai.io
+Cockroach Labs,https://status.cockroachlabs.cloud
+Collibra,https://www.collibra.com/us/en/status-dashboard
+Elastic Cloud,https://cloud-status.elastic.co
+Fauna,https://status.fauna.com
+Fivetran,https://status.fivetran.com
+Grafana,https://grafanalabs.statuspage.io
+GrapheneDB,http://status.graphenedb.com
+InfluxData,https://status.influxdata.com
+Instaclustr,https://status.instaclustr.com
+Iron.io,https://status.iron.io
+Keypup,https://status.keypup.io
+Memcachier,http://status.memcachier.com
+Mode,https://status.modeanalytics.com
+MongoDB,http://status.cloud.mongodb.com
+Neo4j Aura,https://status.neo4j.io
+Neon,https://neonstatus.com
+Northflank,https://status.northflank.com
+ObjectRocket,http://status.objectrocket.com
+OpenCorporates,https://status.opencorporates.com
+pgMustard,https://status.pgmustard.com
+Pinecone,https://status.pinecone.io
+PlanetScale,https://www.planetscalestatus.com
+PopSQL,https://popsqlstatus.com
+Redis,https://status.redis.com
+RedisToGo,http://status.redistogo.com
+Searchly,http://status.searchly.com
+Snowflake,https://status.snowflake.com
+Stacker,https://status.stacker.app
+Stitch Data,https://status.stitchdata.com
+Supabase,https://status.supabase.com
+Swiftype,http://status.swiftype.com
+Talend,https://trust.talend.com
+Timescale,https://status.timescale.com
+TimezoneDB,https://timezonedb.com/status
+Upstash,https://status.upstash.com
+illiz,https://status.zilliz.com/uptime
+Akamai Edge DNS,https://edgedns.status.akamai.com
+api.video,https://status.api.video
+Brandfetch,https://status.brandfetch.io
+Bunny,https://status.bunny.net
+CDN77,https://client.cdn77.com/support/status
+Cdnjs,https://status.cdnjs.com
+ClearlyIP,https://status.clearlyip.com
+Cloudflare,https://www.cloudflarestatus.com
+Digital Pigeon,https://status.digitalpigeon.com
+DRACOON,https://status.dracoon.com
+Edgio,https://status.edg.io
+Fasterize,https://status.fasterize.com
+Fastly,https://www.fastlystatus.com
+Files,https://status.files.com
+Font Awesome,https://status.fortawesome.com
+GraphCDN,https://status.graphcdn.io
+Hygraph,https://status.hygraph.com
+ImageKit,https://statuspage.imagekit.io
+imgix,https://status.imgix.com
+InterNetX,https://status.internetx.com
+Iristel,https://status.iristel.com
+Jitterbit,https://trust.jitterbit.com
+JSDelivr,https://status.jsdelivr.com
+KeyCDN,https://status.keycdn.com
+Littledata,https://status.littledata.io
+M247,https://status.m247.com
+Mist,https://status.mist.com
+Netskope,https://trust.netskope.com
+NGENIX,https://ngenix.statuspage.io
+Teleport,https://status.teleport.sh
+Twingate,https://status.twingate.com
+uniFLOW Online,https://status.uniflowonline.com
+UpCloud,https://status.upcloud.com
+Uploadcare,https://status.uploadcare.com
+Verizon Digital Media,https://status.verizondigitalmedia.com/#network-status
+WeTransfer,https://wetransfer.statuspage.io
+Alchemy,https://status.alchemy.com
+B2C2,https://status.b2c2.com
+Bitfinex,https://bitfinex.statuspage.io
+BitGo,https://status.bitgo.com
+BitMEX,https://status.bitmex.com
+Bitpanda,https://status.bitpanda.com
+Bitso,https://status.bitso.com
+Blockchain,https://www.blockchain-status.com
+Blockchair,https://status.blockchair.com
+Block.io,https://status.block.io
+Bloom,https://status.bloom.co
+Brave,https://status.brave.com
+CEX.IO,https://status.cex.io
+Chainalysis,https://status.chainalysis.com
+Circle,https://status.circle.com
+Cloudnovi,https://status.cloudnovi.com
+CoinAPI.io,https://status.coinapi.io
+Coinbase,https://coinbase.statuspage.io
+Coinbase Commerce,https://status.commerce.coinbase.com
+Coinbase Prime,https://status.prime.coinbase.com
+Coinbase Pro,https://status.pro.coinbase.com
+CoinGate,https://status.coingate.com
+CoinGecko,https://status.coingecko.com
+CoinJar,https://status.coinjar.com
+CoinList,https://status.coinlist.co
+CoinMarketCap,https://status.coinmarketcap.com
+Coins.ph,https://status.coinmarketcap.com
+Crypto.com,https://status.crypto.com
+Crypto Pro,https://status.cryptopro.app
+Enjin,https://www.enjinstatus.com
+Etherscan,https://etherscan.freshstatus.io
+eToro,https://status.etoro.com
+Filecoin,https://status.filecoin.io
+Fireblocks,https://status.fireblocks.com
+Gemini,https://status.gemini.com
+Hedera,https://status.hedera.com
+Helium,http://status.helium.com
+Hummingbot,https://status.hummingbot.io
+Infura,https://status.infura.io
+Kraken,https://status.kraken.com
+Ledger,https://status.ledger.com
+LMAX,https://status.lmax.com
+Luno,https://status.luno.com
+Mnemonic,https://status.mnemonichq.com
+NBA Top Shot,https://status.nbatopshot.com
+OpenNode,https://status.opennode.co
+OpenSea,https://status.opensea.io
+Optimism,https://status.optimism.io
+OSL Singapore,https://status.osl.com
+Paribu,https://status.paribu.com
+PrimeXBT,https://status.primexbt.com
+Purse.io,https://status.purse.io
+Quadency,https://status.quadency.com
+QuickNode,https://status.quicknode.com
+Remitano,https://status.remitano.com
+Shakepay,https://status.shakepay.com
+Solana,https://status.solana.com
+The Graph,https://status.thegraph.com
+Uphold,https://status.uphold.com
+Zero Hash,https://status.zerohash.com
+8base,https://status.8base.com
+Ably,https://status.ably.com
+Airbrake,https://status.airbrake.io
+Amazon Marketplace Web Service,http://status.mws.amazon.com
+Anvil,https://status.useanvil.com
+Apify,https://status.apify.com
+Apple Developer,https://developer.apple.com/system-status
+AppSignal,https://status.appsignal.com
+Apwide,https://apwide.statuspage.io
+Array,https://status.array.com
+Ashby,https://status.ashbyhq.com
+Assembla,https://status.assembla.com
+Atlassian,https://status.atlassian.com
+Atlassian Compass,https://compass.status.atlassian.com
+Atlassian Developer,https://developer.status.atlassian.com
+Bitbucket,https://bitbucket.status.atlassian.com
+Bitrise,https://status.bitrise.io
+BlazeMeter,https://status.blazemeter.com
+Broadcom AppNeta,http://status.appneta.com
+Bugsnag,https://status.bugsnag.com
+Canonical,https://status.canonical.com
+Circle CI,https://status.circleci.com
+CleverCloud,https://www.clevercloudstatus.com
+Clojars,http://status.clojars.org
+CloudAMPQ,http://status.cloudamqp.com
+CloudBees,https://www.cloudbeesstatus.com
+Cloudnovi,https://status.cloudnovi.com
+CloudRepo,https://status.cloudrepo.io
+CocoaPods,https://status.cocoapods.org
+Codefresh,http://status.codefresh.io
+Confluence,https://confluence.status.atlassian.com
+Coveralls,https://status.coveralls.io
+crates.io,https://status.crates.io
+Cube Cloud,https://status.cubecloud.dev
+Cypress,https://status.cypress.io
+Datacake,https://datacake-status.com
+Datadog,https://status.datadoghq.com
+Dead Man's Snitch,https://status.deadmanssnitch.com
+DeepSource,https://status.deepsource.io
+Deno Deploy,https://denostatus.com
+Docebo,https://status.docebo.com
+esa,https://status.esa.io
+esa.io,https://status.esa.io
+FlagSmith,https://flagsmith.statuspage.io
+Formspree,https://status.formspree.io
+Frigade,https://status.frigade.com
+Gastby,https://status.gatsbyjs.com
+Gemfury,https://status.fury.co
+GGNetwork,https://status.ggnetwork.com
+Ghost Inspector,https://ghostinspector.statuspage.io
+GitBook,https://www.gitbookstatus.com
+Glide apps,https://status.glideapps.com
+Glitch,https://status.glitch.com
+Gremlin,http://stats.pingdom.com/xf7vwkfqygcb
+Harness,https://status.harness.io
+Hashnode,https://status.hashnode.com
+Hasura,https://status.hasura.io
+Height,https://height.statuspage.io
+HelpDocs,https://status.helpdocs.io
+HeroCoders,https://status.herocoders.com
+Infusionsoft by Keap,http://status.infusionsoft.com
+Inline Manual,https://status.inlinemanual.com
+Innovo,http://status.goinnovo.com
+inspectAR,https://status.inspectar.com
+Intuit Developer,https://intuitdevelopergroup.statuspage.io
+Ionic Framework,https://status.ionicframework.com
+Ipapi,https://status.ipapi.com
+Jellyfish,https://status.jellyfish.co
+JetBrains,https://status.jetbrains.com
+Jexo,https://jexo.statuspage.io
+Jira Align,https://jira-align.status.atlassian.com
+Jira Product Discovery,https://jira-product-discovery.status.atlassian.com
+Jira Service Management,https://jira-service-management.status.atlassian.com
+Jira Work Management,https://jira-work-management.status.atlassian.com
+JitPack,https://status.jitpack.io
+Judoscale,https://status.judoscale.com
+Keypup,https://status.keypup.io
+LaunchDarkly,https://status.launchdarkly.com
+Layer0,https://status.layer0.co
+LeanIX,https://status.leanix.net
+LicenseSpring,https://status.licensespring.com
+Liferay,https://status.liferay.com
+Lokalise,https://status.lokalise.com
+MacStadium,https://status.macstadium.com
+Mastercard API,https://developer.mastercard.com/api-status
+Mendix,https://status.mendix.com
+Meteor,https://status.meteor.com
+Mezmo,https://status.mezmo.com
+Mohami,https://status.mohami.io
+Moveworks,https://status.moveworks.com
+NCR,https://status.ncr.com
+Ngrok,https://status.ngrok.com
+Nightfall,https://status.nightfall.ai
+Nowsta,https://status.nowsta.com
+NPM,https://status.npmjs.org
+OpenAI,https://status.openai.com
+OTOY,https://status.otoy.com
+Outsystems,https://status.outsystems.com
+packagecloud,http://www.packagecloudstatus.io
+Paperplane,https://status.paperplane.app
+Pendo,https://status.pendo.io
+Percy,https://status.percy.io
+Permit-io,https://permit-io.instatus.com
+pgMustard,https://status.pgmustard.com
+Phantombuster,https://status.phantombuster.com
+Pipedream,https://status.pipedream.com
+Postman,https://status.getpostman.com
+Prerender.io,https://status.prerender.io
+PriceHubble,https://status.pricehubble.com
+Prismic,https://status.prismic.io
+PullRequest,https://status.pullrequest.com
+Pulumi,https://status.pulumi.com
+Pusher,https://status.pusher.com
+Pushy,https://status.pushy.me
+Python Package Index,https://status.python.org
+Qovery,https://status.qovery.com
+Quick Base,https://service.quickbase.com
+RapidAPI,https://status.rapidapi.com
+Raptor Systems,https://status.carrerafuncionaria.cl
+Raygun,https://status.raygun.com
+Readme,https://www.readmestatus.com
+Red Hat,https://status.redhat.com
+Replit,https://status.replit.com
+RevenueCat,https://status.revenuecat.com
+Rollbar,http://status.rollbar.com
+Rookout,https://status.rookout.com
+RubyGems,https://status.rubygems.org
+Sanity,https://status.sanity.io
+SashiDo,https://status.sashido.io
+Sauce Labs,https://status.saucelabs.com
+Scale AI,https://status.scale.com
+Scraperapi,https://scraperapi.hund.io
+ScrapingBee,https://status.scrapingbee.com
+Semaphore,http://status.semaphoreci.com
+Sentry,https://status.sentry.io/
+Shortcut,https://status.shortcut.com
+SiteSpect,https://status.sitespect.com
+SonarCloud,https://sonarcloud.statuspage.io
+Spacelift,https://spacelift.statuspage.io
+Split,https://status.split.io
+Stacker,https://status.stacker.app
+Stack Exchange,https://www.stackstatus.net
+StopLight,http://status.stoplight.io
+Summit,https://status.usesummit.com
+SurveyMonkey,https://surveymonkey.statuspage.io
+Temporal,https://status.temporal.io
+Tide,https://status.tide.co
+Transbank,https://status.transbankdevelopers.cl
+Travis CI,https://www.traviscistatus.com
+Tray.io,https://status.tray.io
+Tuple,https://status.tuple.app
+Unity,https://status.cloud.unity3d.com
+Visma,https://status.visma.com
+Voxeet,https://status.voxeet.com
+VS App Center,https://status.appcenter.ms
+WayDev,http://status.waydev.co
+WPMU DEV,https://status.wpmudev.com
+Zenscrape,https://zenscrape.freshstatus.io
+Zeplin,https://status.zeplin.io
+Zyte,https://status.zyte.com
+CS:GO stats,https://status.csgostats.gg
+Fortnite,https://status.play.google.com
+Google Play,https://status.g-portal.com
+GPORTAL,https://status.hypixel.net
+Hypixel,https://status.munzee.com
+Munzee,https://status.geforcenow.com
+NVIDIA GeForce,http://status.oneskyapp.com
+OneSky,https://status.parsec.app
+Parsec,https://status.playstation.com/data/statuses/region/SCEA.json
+Playstation,https://status.roblox.com
+Roblox,https://status.cloud.unity3d.com
+Unity,https://status.unosial.com
+Unosial,https://support.xbox.com/en-US/xbox-live-status
+Xbox Live,https://stackstatus.com
+20i,https://status.alphavps.com
+AlphaVPS,https://anchorhost.statuspage.io
+Anchor Host,http://status.binarylane.com.au
+Binary Lane,https://status.catalystcloud.nz
+Catalyst Cloud,http://status.cdc.systems
+CDC Service,http://status.cloud66.com
+Cloud 66,https://status.cloudamqp.com
+CloudAMQP,https://status.cloudsigma.com
+CloudSigma,https://status.codetwo.com
+CodeTwo,https://status.combell.com/en
+Combell,https://status.crucial.com.au
+Crucial Hosting,https://dhostingstatus.com
+Dhosting,https://status.digitalocean.com
+DigitalOcean,https://dnsimple.statuspage.io
+DNSimple,https://status.dogado.de
+dogado,https://status.dongee.com
+Dongee,https://www.dreamhoststatus.com
+DreamHost,https://exoscalestatus.com
+Exoscale,https://status.finalsite.com
+Finalsite,https://status.getflywheel.com
+Flywheel,https://status.fragnet.net
+Fragnet Networks,https://status.freistilbox.com
+freistilbox,https://gearhost.statuspage.io
+GearHost,https://status.getresponse.com
+GetResponse,https://status.gitlabhost.com
+GitLabHost,https://www.godaddy.com/system-status
+GoDaddy,https://status.hetzner.com
+Hetzner,https://status.hostifi.com
+HostiFi,https://statuspage.hostinger.com
+Hostinger,https://www.hostpapastatus.com
+HostPapa,https://status.hostpress.de
+HostPress,https://status.hostry.com
+Hostry,http://hoverstatus.com
+Hover,https://www.hypernode-status.com
+Hypernode,https://status.instaclustr.com
+Instaclustr,https://status.iwantmyname.com
+I Want My Name,https://status.kinsta.com
+Kinsta,https://status.kualo.com
+Kualo,https://status.latitude.sh
+Latitude.sh,https://status.layerstack.com
+LayerStack,https://status.linode.com
+Linode,https://status.liquidweb.com
+Liquid Web,https://status.lumaserv.com
+LUMASERV,https://status.magemojo.com
+MageMojo,https://status.moodle.com
+Moodle,https://www.namecheap.com/status-updates
+Namecheap,https://status.nestify.io/en
+Nestify,https://status.nexcess.net
+Nexcess,https://status.nhost.io
+Nhost,https://status.noip.com
+No-IP,https://status.one.com
+One,https://status.us.ovhcloud.com
+OVHcloud,https://status.pantheon.io
+Pantheon,https://status.plox.host
+PloxHost,https://status.plusserver.com
+PlusServer,https://status.presslabs.com
+Presslabs,https://status.quadranet.com
+QuadraNet,https://status.register.it
+Register.it,https://status.rocket.net
+Rocket.net,https://status.section.io
+Section,https://status.seravo.com
+Seravo,https://serveboltstatus.com
+Servebolt,https://status.mysau.com.au
+Servers Australia,https://status.shockbyte.com
+Shockbyte,https://status.shockhosting.net
+Shock Hosting,https://status.uk2.net
+UK2,https://status.ultradns.com
+UltraDNS,https://status.umbrellar.com
+Umbrellar,https://status.united-hoster.de
+United Hoster GmbH,https://status.velocityhost.com.au
+Velocity Host,https://status.vpsserver.com
+VPSServer,https://status.vultr.com
+Vultr,https://status.webcentral.au
+Webcentral,https://www.wikimediastatus.net
+Wikimedia,https://status.wix.com
+Wix,https://wpenginestatus.com
+WP Engine,https://status.wpmudev.com
+WPMU DEV,https://status.3stepit.com
+3stepIT,https://status.8base.com
+8base,https://status.ada.support
+Ada,https://status.addigy.com
+Addigy,https://edgedns.status.akamai.com
+Akamai Edge DNS,https://status.alloy.com
+Alloy,https://www.amplifiedit.com/status
+Amplified IT,https://status.apify.com
+Apify,https://apwide.statuspage.io
+Apwide,https://status.assembled.com
+Assembled,https://status.atera.com
+Atera,https://status.atlassian.com
+Atlassian,https://status.askspoke.com
+atSpoke,https://status.autospf.com
+AutoSPF,https://status.auvik.com
+Auvik,https://status.avanan.com
+Avanan,https://status.bettercloud.com
+BetterCloud,https://status.bitly.com
+Bitly,https://status.bittitan.com
+BitTitan,https://status.bossdesk.io
+BOSSDesk,https://status.brave.com
+Brave,https://status.brightlysoftware.com
+Brightly Software,https://status.canonical.com
+Canonical,https://status.carrotquest.io
+Carrot quest,https://status.catonetworks.com
+Cato Networks,https://status.cherwellondemand.com
+Cherwell,https://status.ces.cisco.com
+Cisco CES,https://status.meraki.net
+Cisco Meraki,https://status.cloudamqp.com
+CloudAMQP,https://www.cloudbeesstatus.com
+CloudBees,https://status.cloudradial.net
+CloudRadial,https://status.joinclyde.com
+Clyde,https://status.cocoapods.org
+CocoaPods,http://status.codewars.com
+Codewars,https://www.colt.net/status
+Colt,https://status.comptia.net
+CompTIA,https://status.connectwise.com
+ConnectWise,https://status.cradlepoint.com
+Cradlepoint,http://status.cumulocity.com
+Cumulocity,https://datacake-status.com
+Datacake,https://status.datto.com
+Datto,https://www.deskprostatus.com
+Deskpro,http://status.devolutions.net
+Devolutions,https://status.dixa.io
+Dixa,https://status.docebo.com
+Docebo,https://status.easyredir.com
+EasyRedir,https://elation.status.io
+Elation Health,https://status.elev.io
+Elevio,https://stats.uptimerobot.com/VkNVYS2vV6
+EPS - Internet Connections,https://status.esa.io
+esa,http://exa.freshstatus.io
+Exa,https://status.exalate.com
+Exalate,https://cloud-status.extremecloudiq.com/status/index.html
+Extreme Networks,https://status.fingerprintjs.com
+FingerprintJS,https://flagsmith.statuspage.io
+FlagSmith,https://status.flexera.com
+Flexera,https://status.flying-sphinx.com
+Flying Sphinx,http://status.fond.co
+Fond,https://status.formspree.io
+Formspree,https://status.freee.co.jp
+Freee,https://updates.freshservice.com
+Freshservice,https://status.frigade.com
+Frigade,https://status.frontegg.com
+Frontegg,https://status.g2.com
+G2,https://status.gainsight.com
+Gainsight,https://geckoboard.statuspage.io
+Geckoboard,https://status.geekbot.com
+Geekbot,https://gladly.statuspage.io
+Gladly,https://status.glideapps.com
+Glide apps,https://status.helloglobo.com
+GLOBO,https://status.golinks.io
+GoLinks,https://status.goodtime.io
+GoodTime,http://status.logmeinaccess.com
+GoToMyPC,http://stats.pingdom.com/xf7vwkfqygcb
+Gremlin,https://status.groovehq.com
+Groove,https://status.hackerrank.com
+HackerRank,https://status.halp.com
+Halp,https://status.hashnode.com
+Hashnode,https://status.hasura.io
+Hasura,https://status.hearsaysystems.com
+Hearsay Systems,https://status.helpdesk.com
+HelpDesk,https://status.helpjuice.com
+Helpjuice,https://status.helpscout.com
+HelpScout,https://status.helpshift.com
+Helpshift,https://status.herocoders.com
+HeroCoders,https://status.highspot.com
+Highspot,https://status.hive.com
+Hive,https://status.iboss.com/ibcloud/app/cloudStatus.html
+iboss,https://www.icewarp.de/en/support/service-status/#:~:text=Dec%2001%2C%202022%20No%20incidents%20reported%20today.
+IceWarp,https://status.inriver.com
+Innovo,https://status.inriver.com
+Inriver,https://status.inspectar.com
+inspectAR,https://status.instride.com
+InStride,https://intuitdevelopergroup.statuspage.io
+Intuit Developer,https://status.ipapi.com
+Ipapi,https://status.itglue.com
+ITGlue,https://itportal1.statuspage.io
+IT Portal,https://status.jamf.com
+Jamf,https://status.jellyfish.co
+Jellyfish,https://status.jenkins.io
+Jenkins,https://statuspage.jitbit.com
+JitBit,https://status.jitpack.io
+JitPack,https://status.judoscale.com
+Judoscale,https://status.kaseya.net
+Kaseya,https://status.keeping.com
+Keeping,https://status.keypup.io
+Keypup,https://status.launchdarkly.com
+LaunchDarkly,https://status.launchnotes.com
+LaunchNotes,https://status.layer0.co
+Layer0,https://status.leanix.net
+LeanIX,https://status.licensespring.com
+LicenseSpring,https://status.liferay.com
+Liferay,https://status.logmeinaccess.com
+LogMeIn Pro,https://status.logmeinremotesupport.com
+LogMeIn Rescue,http://status.lookback.io
+Lookback,https://status.loyaltylion.com
+LoyaltyLion,https://status.maestroqa.com
+MaestroQA,http://magensa.statuspage.io
+Magensa,https://status.make.com
+Make,https://status.manageengine.com
+ManageEngine,https://status.maxmind.com
+MaxMind,https://status.mealmagic.com
+Meal Magic,http://status.meridiankiosks.com
+Meridian,https://status.meridianlink.com
+MeridianLink,https://status.meteor.com
+Meteor,https://status.office365.com
+Microsoft 365 apps,https://status.office365.com
+Microsoft 365 for the web,https://status.office365.com
+Microsoft 365 suite,https://status.office365.com
+Microsoft Forms,https://status.office365.com
+Microsoft Power Automate in Microsoft 365,https://status.office365.com
+Microsoft Stream,https://status.office365.com
+Microsoft Viva,https://mojohelpdesk.montastic.io
+Mojo Helpdesk,https://status.moveworks.com
+Moveworks,https://uptime.n-able.com
+N-able,https://status.narvar.com
+Narvar,https://status.ncr.com
+NCR,https://status.ninety.io
+Ninety,https://status.nowsta.com
+Nowsta,https://status.nutshell.com
+Nutshell,https://status.ocrolus.com
+Ocrolus,https://status.officernd.com
+OfficeRnD,https://status.oneschema.co
+OneSchema,https://status.opencagedata.com
+OpenCage,https://www.orttostatus.com
+Ortto,https://status.otoy.com
+OTOY,https://status.pairsoft.com
+PairSoft,https://status.particle.io
+Particle,https://status.patchmypc.com
+Patch My PC,https://status.pax8.com
+Pax8,https://status.people.ai
+People.ai,https://status.percy.io
+Percy,https://permit-io.instatus.com
+Permit-io,https://status.pipedream.com
+Pipedream,https://status.podio.com
+Podio,https://status.polly.ai
+Polly,https://status.office365.com
+Power Apps in Microsoft 365,https://status.preyproject.com
+Prey,https://status.printercloud.com
+PrinterLogic,https://status.project44.com
+Project44,https://status.prosperstack.com
+ProsperStack,https://status.pullrequest.com
+PullRequest,https://status.pureservice.com
+Pureservice,https://status.pushy.me
+Pushy,https://status.qovery.com
+Qovery,https://status.qualys.com
+Qualys,https://status.recruiterbox.com
+Recruiterbox,https://status.redhat.com
+Red Hat,https://status.reftab.com
+Reftab,https://status.revenuecat.com
+RevenueCat,https://status.roadmunk.com
+Roadmunk,https://status.roboyo.global
+Roboyo,https://status.rootly.com
+Rootly,https://status.samanage.com
+Samanage,https://sapling.statuspage.io
+Sapling,https://scraperapi.hund.io
+Scraperapi,https://sectigo.status.io
+Sectigo,https://status.securew2.com
+SecureW2,https://status.securityscorecard.com
+SecurityScorecard,http://status.senso.cloud
+Senso,https://status.shakebugs.com
+ShakeBugs,https://app-status.sharegate.com
+ShareGate,https://status.shelf.io
+Shelf.io,https://slabstatus.com
+Slab,https://status.slido.com
+Slido,https://status.sonicwall.com
+SonicWall,https://spacelift.statuspage.io
+Spacelift,https://speakap.statuspage.io
+Speakap,http://status.splashtop.com
+Splashtop,https://status.squiz.cloud
+Squiz,https://status.usesummit.com
+Summit,http://status.us2.sumologic.com
+Sumo Logic US2,https://status.swaggerhub.com
+Swagger,https://status.sysaid.com
+SysAid,https://teamretro.betteruptime.com
+TeamRetro,http://status.teamsupport.com
+TeamSupport,https://status.teamviewer.com
+TeamViewer,https://status.temporal.io
+Temporal,https://status.testmo.com
+Testmo,https://testrail.statuspage.io
+TestRail,https://status.threatx.com
+ThreatX,http://status.ticketinghub.com
+TicketingHub,https://status.tide.co
+Tide,https://status.tidio.com
+Tidio,https://status.tcpsoftware.com
+TimeClock Plus,https://status.totango.com
+Totango,https://tpxcommunications.statuspage.io
+TPx Communications,https://status.trengo.com
+Trengo,https://status.tyk.io
+Tyk,https://status.ui.com
+Ubiquiti,http://status.ujet.co
+UJET,https://status.visma.com
+Visma,https://vcc.statuspage.io
+Vonage,https://vonageapi.statuspage.io
+Vonage API,https://businesssupport.vonage.com/trust
+Vonage Business,https://status.voyado.com
+Voyado,https://status.webscrapingapi.com
+WebScrapingAPI,https://status.whimsical.com
+Whimsical,https://wpvipstatus.com
+WordPress VIP,https://status.workato.com
+Workato,https://status.workspot.com
+Workspot,https://status.wpmudev.com
+WPMU DEV,https://creditplus.com/system-status
+Xactus,https://status.xmatters.com
+xMatters,http://status.zenduty.com
+Zenduty,https://zenscrape.freshstatus.io
+Zenscrape,https://status.zenvia.com
+Zenvia,https://status.zingle.me
+Zingle,https://status.appriver.com
+AppRiver,https://partners.status.atlassian.com
+Atlassian Partners,https://support.status.atlassian.com
+Atlassian Support,https://status.bigleaf.net
+BigLeaf,https://bluebeam.hund.io
+Bluebeam,https://status.box.com
+Box,http://status.clickup.com
+ClickUp,https://status.codetwo.com
+CodeTwo,https://status.acats.com
+ComplianceAlpha,https://dakboard.statuspal.io
+DAKboard,https://status.documo.com
+Documo,https://uptime.doodle.com
+Doodle,https://status.dropbox.com
+Dropbox,http://status.formstack.com
+Formstack,https://status.gimlet.us
+Gimlet,https://www.gitbookstatus.com
+GitBook,https://www.google.com/appsstatus/dashboard
+Google Workspace,https://status.gradle.com
+Gradle,https://status.getguru.com
+Guru,https://status.hiverhq.com
+Hiver,http://status.liquidplanner.com
+LiquidPlanner,https://lucidsoftware.statuspage.io
+Lucidchart,https://status.matillion.com
+Matillion,https://status.maze.co
+Maze,https://status.office365.com
+Microsoft Power Automate in Microsoft 365,https://status.office365.com
+Microsoft Viva,https://status.milanote.com
+Milanote,https://status.miro.com
+Miro,https://status.monday.com
+Monday,https://status.mural.co
+Mural,https://trust-au.netdocuments.com
+NetDocuments AU,https://trust-us.netdocuments.com
+NetDocuments US,https://status.gonitro.com
+Nitro,https://status.nokotime.com
+Noko,https://status.nylas.com
+Nylas,https://status.pinpoint.support
+Pinpoint,https://status.pipefy.com
+Pipefy,https://status.plangrid.com
+PlanGrid,https://status.planview.com
+Planview,https://status.prezi.com
+Prezi,https://status.proofhub.com
+ProofHub,https://realvnc.statuspage.io
+RealVNC,https://status.reflektive.com
+Reflektive,https://status.rescuetime.com
+RescueTime,https://www.sap.com/uk/about/trust-center/cloud-service-status.html
+SAP,https://savvycal.instatus.com
+SavvyCal,https://status.secomea.com
+Secomea,https://status.skedulo.com
+Skedulo,https://smartpass.instatus.com
+SmartPass,https://status.smartsheet.com
+Smartsheet,https://teamretro.betteruptime.com
+TeamRetro,https://status.teamwork.com
+Teamwork,https://tettra.statuspage.io
+Tettra,http://status.textexpander.com
+TextExpander,https://status.tcpsoftware.com
+TimeClock Plus,https://status.todoist.net
+Todoist,https://status.tresorit.com
+Tresorit,https://status.viapeople.net
+viaPeople,https://status.webex.com/service/status
+WebEx,https://status.wordtune.com
+Wordtune,https://status.workflowy.com
+WorkFlowy,https://1password.statuspage.io
+1Password,http://status.3ncrypt3d.com
+3NCRYPT3D,https://abnormalsecurity.statuspage.io
+Abnormal Security,https://status.abuseipdb.com
+AbuseIPDB,https://edgedns.status.akamai.com
+Akamai Edge DNS,https://status.alertlogic.com
+Alert Logic,https://status.alienvault.cloud
+AlienVault,https://status.aptible.com
+Aptible,https://status.area1security.com
+Area 1,https://status.armor.com
+Armor,https://access.status.atlassian.com
+Atlassian Access,https://status.auth0.com
+Auth0,https://status.authentic8.com
+Authentic8,https://status.automox.com
+Automox,https://status.avanan.com
+Avanan,https://status.cloudcare.avg.com
+Avast,https://status.openpath.com
+Avigilon,https://status.axis.com
+Axis Communications,https://status.barracuda.com
+Barracuda,https://mwrmm.statuspage.io
+Barracuda MSP,https://ssems.gravityzone.bitdefender.com
+Bitdefender,https://status.blip.ai
+Blip,https://status.bluefin.com
+Bluefin,https://status.breachsecurenow.com
+Breach Secure Now!,https://www.bugcrowdstatus.com
+Bugcrowd,https://canary.statuspage.io
+Canary,https://status.carbonblack.com
+Carbon Black,https://status.castle.io
+Castle,https://status.checkpoint.com
+Check Point,https://status.ces.cisco.com
+Cisco CES,https://status.umbrella.com
+Cisco Umbrella,https://status.code42.com
+Code 42,https://www.colt.net/status
+Colt,https://status.one.comodo.com
+Comodo,https://trust.idaptive.com
+CyberArk Software,https://status.cybersmart.co.uk
+CyberSmart,https://status.cycode.com
+Cycode,https://status.dashlane.com
+Dashlane,https://status.datadome.co
+DataDome,https://status.datagrail.io
+DataGrail,https://status.deepsource.io
+DeepSource,https://status.digicert.com
+DigiCert,https://status.dnsfilter.com
+DNSFilter,https://dratastatus.com
+Drata,https://status.duo.com
+Duo Security,https://www.dynstatus.com
+Dyn,https://ukstatus.ek.co
+Ekco,https://status.eset.com
+ESET,https://expeditedsecurity.statuspage.io
+Expedited Security,https://status.expel.io
+Expel,https://www.f5cloudstatus.com
+F5,https://status.fingerprintjs.com
+FingerprintJS,https://status.forcepoint.com/#/status/1
+Forcepoint,https://csg.status.forcepoint.com
+Forcepoint ONE,https://status.fossa.com
+FOSSA,https://status.foxpass.com
+Foxpass,https://status.f-secure.com
+F-Secure,https://status.genetec.com
+Genetec,https://gitguardian.statuspage.io
+GitGuardian,https://status.greynoise.io
+GreyNoise,https://guardrailsio.statuspage.io
+GuardRails,https://www.hackeronestatus.com
+HackerOne,https://status.hashicorp.com
+HashiCorp,https://www.hcaptchastatus.com
+hCaptcha,https://status.hdeone.com
+HENNGE One,https://status.hornetsecurity.com
+Hornetsecurity,https://huntressstatus.statuspage.io
+Huntress,https://status.hyonix.com
+Hyonix,https://statuspage.ibmcloudsecurity.com
+IBM Security,https://status.imperva.com
+Imperva,https://status.incapsula.com
+Incapsula,https://status.incognia.com
+Incognia,https://status.infoblox.com
+Infoblox,https://status.inkyphishfence.com
+INKY,https://status.intruder.io
+Intruder,https://status.ipdata.co
+ipdata,https://stats.uptimerobot.com/M90zYt5gGx
+Ipregistry,https://ipvanish.statuspage.io
+IPVanish,https://status.ironscales.com
+IRONSCALES,https://statuspage.keeper.io
+Keeper,https://status.kennasecurity.com
+Kenna Security,https://status.kisi.io
+Kisi,https://status.knowbe4.com
+KnowBe4,https://status.kolide.com
+Kolide,https://status.lastpass.com
+LastPass,https://status.latch.com
+Latch,https://status.ledger.com
+Ledger,https://letsencrypt.status.io
+Let's Encrypt,https://status.luxsci.com
+LuxSci,https://status.maxmind.com
+MaxMind,https://status.mimecast.com
+Mimecast,https://status.mnemonichq.com
+Mnemonic,https://mxtoolbox.statuspage.io
+MxToolbox,https://status.nordlayer.com
+NordLayer,https://nudgesecurity.statuspage.io
+Nudge Security,https://status.obsidiansecurity.com
+Obsidian Security,https://trust.opswat.com
+OPSWAT,https://saasstatus.oracle.com
+Oracle Trust Center,https://status.paloaltonetworks.com
+Palo Alto Networks,https://status.panther.com
+Panther Labs,https://status.parchment.com
+Parchment,https://status.perimeter81.com
+Perimeter 81,https://uptime.proctorio.com
+Proctorio,https://status.protecht.io
+Protecht,https://status.proxyclick.com
+Proxyclick,https://status.pushsecurity.com
+Push Security,https://status.qualys.com
+Qualys,https://cwaf.status.radwarecloud.com
+Radware Cloud WAF,https://status.rapid7.com
+Rapid7,https://help.resolver.com/help/status-dashboard
+Resolver,https://status.rhombus.com
+Rhombus,https://status.ribose.com
+Ribose,https://status.rubrik.com
+Rubrik,https://status.runpanther.io
+Runpanther,https://status.safebase.io
+SafeBase,https://status.sailpoint.com
+SailPoint,https://sectigo.status.io
+Sectigo,https://status.securecodewarrior.com
+Secure Code Warror,https://status.secureframe.com
+Secureframe,https://status.securew2.com
+SecureW2,https://status.ctpx.secureworks.com
+Secureworks,https://status.securityscorecard.com
+SecurityScorecard,https://status.securitytrails.com
+SecurityTrails,http://status.securly.com
+Securly,https://status.semgrep.dev
+Semgrep,https://status.seon.io
+SEON,https://sertifi.statuspage.io
+Sertifi,https://status.sift.com
+Sift,https://status.skyhighsecurity.com
+Skyhigh Security,https://smartpass.instatus.com
+SmartPass,https://status.smarty.com
+Smarty,https://status.smoothwall.com
+Smoothwall,https://status.smxemail.com
+SMX Cybersecure Email,https://status.snyk.io
+Snyk,https://centralstatus.sophos.com
+Sophos,https://status.specopssoft.com
+SpecOPs,https://status.sucuri.net
+Sucuri,http://status.us2.sumologic.com
+Sumo Logic US2,https://status.tailscale.com
+Tailscale,https://uptime.tenable.com
+Tenable,https://status.threatstack.com
+threat stack,https://status.threatx.com
+ThreatX,https://status.threema.ch
+Threema,http://status.todyl.com
+Todyl,https://status.tokenex.com
+TokenEx,https://tpxcommunications.statuspage.io
+TPx Communications,https://status.transcend.io
+Transcend,https://status.trendmicro.com/s/en-US/
+Trend Micro,https://www.trugrid.com/status
+TruGrid,https://status.tugboatlogic.com
+Tugboat Logic,https://status.urlscan.io
+Urlscan,https://status.usaepay.com
+USAEpay,https://status.vanta.co
+Vanta,https://status.veracode.com
+Veracode,https://status.verisk.com
+Verisk,https://status.verkada.com
+Verkada,https://status.verygoodsecurity.com
+Very Good Security,https://status.vipre.com
+VIPRE,https://status.wallarm.com
+Wallarm,https://status.watchguard.com
+WatchGuard,https://status.webroot.com
+Webroot,https://status.webshrinker.com
+Webshrinker,https://main.whoisxmlapi.com/api-status
+WhoisXML API,https://status.wickr.com
+Wickr,https://status.zerossl.com
+ZeroSSL,https://trust.zscaler.com/cloud-status
+Zscaler Cloud,https://status.frase.io
+Frase,https://status.seomonitor.com
+SEOmonitor,https://stackstatus.com
+20i,https://status.alphavps.com
+AlphaVPS,https://anchorhost.statuspage.io
+Anchor Host,https://status.appwrite.io
+appwrite,https://anchorhost.statuspage.io
+anchor-host,https://automatticstatus.com
+automattic,http://status.binarylane.com.au
+binary-lane,http://stats.pingdom.com/tdmmfmbt03rn
+campuspress,https://status.catalystcloud.nz
+catalyst-cloud,https://status.cloudsigma.com
+cloudsigma,https://status.convertapi.com
+convertapi,https://status.courier.com
+courier,https://status.crucial.com.au
+crucial-hosting,http://www.dediservestatus.com
+dediserve,https://dhostingstatus.com
+dhosting,https://www.dpstatus.com
+digital-pacific,https://status.dogado.de
+dogado,https://status.dongee.com
+dongee,https://www.dreamhoststatus.com
+dreamhost,https://www.dynstatus.com
+dyn,https://status.theendlessweb.com
+endless-group,https://status.expo.io
+expo,https://fluccs.status.io
+fluccs,https://status.getflywheel.com
+flywheel,https://status.formassembly.com
+formassembly,https://status.fragnet.net
+fragnet-networks,https://status.freistilbox.com
+freistilbox,https://status.gandi.net
+gandi,https://status.getresponse.com
+getresponse,https://status.gitlabhost.com
+gitlabhost,https://www.godaddy.com/system-status
+godaddy,https://status.happyfox.com
+happyfox,https://hawkhoststatus.com
+hawk-host,https://status.hostedgraphite.com
+hosted-graphite,https://status.hostpress.de
+HostPress,https://status.hostry.com
+Hostry,https://status.inmotionhosting.com
+InMotion Hosting,https://www.ionos-status.de
+IONOS,http://status.joomag.com
+Joomag,https://jostleap.statuspage.io
+Jostle AP,https://status.kinsta.com
+Kinsta,https://status.kualo.com
+Kualo,https://status.liquidweb.com
+Liquid Web,https://status.lumaserv.com
+LUMASERV,https://status.magemojo.com
+MageMojo,https://status.moodle.com
+Moodle,https://www.namecheap.com/status-updates
+Namecheap,https://status.nexcess.net
+Nexcess,https://status.one.com
+One,https://status.panoply.io
+Panoply,https://status.pantheon.io
+Pantheon,https://status.plox.host
+PloxHost,https://status.plusserver.com
+PlusServer,https://status.presslabs.com
+Presslabs,https://status.prismic.io
+Prismic,https://status.publit.io
+Publitio,https://status.quadranet.com
+QuadraNet,https://qualifio.status.io
+Qualifio,https://status.apps.rackspace.com
+Rackspace Cloud Office,https://status.rackspeed.de
+rackSPEED,https://status.rechargepayments.com
+ReCharge,https://status.register.it
+Register.it,https://status.rocket.net
+Rocket.net,https://status.rosehosting.com
+RoseHosting,https://status.section.io
+Section,https://serveboltstatus.com
+Servebolt,https://status.goshippo.com
+Shippo,https://status.shockbyte.com
+Shockbyte,https://status.shockhosting.net
+Shock Hosting,https://www.shopifystatus.com
+Shopify,https://status.simplyhosting.com
+Simply Hosting & Servers,https://status.squarespace.com
+Squarespace,https://summithosting.statuskeeper.io
+Summit Hosting,https://status.umbrellar.com
+Umbrellar,https://status.velocityhost.com.au
+Velocity Host,https://status.vultr.com
+Vultr,https://status.webcentral.au
+Webcentral,https://status.webscrapingapi.com
+WebScrapingAPI,https://wpenginestatus.com
+WP Engine,https://status.docebo.com
+Docebo,https://status.lunar.app
+Lunar,https://portal.office.com/servicestatus
+Microsoft,https://www.google.com/appsstatus/dashboard
+Google,https://status.axioshq.com
+Axios,https://status.enterprisemessaging-starhub.com/?start_date=2023-12-02
+StarHub,https://status.minnstate.edu
+State of Minnesota,https://status.quiltmc.org
+Quilt,https://support.altosoftware.co.uk/hc/en-gb/articles/16715261983633-Alto-Service-Status
+Alto Pharmacy,http://status.sapiensia.com
+Sapiens,https://status.mulesoft.com
+MuleSoft,http://status.stealth.net.au
+Stealth,https://status.sse.cisco.com
+Cisco Systems,https://status.amsoil.com
+AMSOIL INC.,https://portal.office.com/servicestatus
+Microsoft ,https://status.okta.com
+Okta,https://status.amp.cisco.com
+Cisco,https://docs.servicenow.com/bundle/washingtondc-platform-user-interface/page/build/service-portal/concept/service-status-widget.html
+ServiceNow,https://status.openai.com
+OPEN,https://status.adobe.com
+Adobe,https://status.cloud.yandex.com
+Yandex,https://status.redis.com
+Redis,https://uptime.com/trendyol.com
+Trendyol Group,https://portal.office.com/servicestatus
+Microsoft,https://status.weendeavor.com
+Endeavor,https://status.securityscorecard.com
+SecurityScorecard,https://status.booksy.com
+Booksy,https://portal.office.com/servicestatus
+Microsoft,https://status.exact.com
+Exact,https://status.trellix.com
+Trellix,https://thg.statuspal.io
+THG,https://portal.office.com/servicestatus
+Microsoft,https://status.cloudera.com
+Cloudera,https://status.upwork.com
+Upwork,https://status.trustedhealth.com
+Trusted Health,https://statusgator.com/services/sonatype
+Sonatype,https://issitedownrightnow.com/status/bancolombia.com
+Bancolombia,https://status.verisk.com
+Verisk,https://status.salesforce.com
+salesforce.com,https://degreed.statuspage.io
+Degreed,https://status.connectwise.com
+ConnectWise,https://status.cohesity.com
+Cohesity,https://www.opengovstatus.com
+OpenGov Inc.,https://www.isitdownrightnow.com/laredoute.fr.html
+La Redoute,https://status.redhat.com
+Red Hat,https://www.isitdownrightnow.com/cargurus.com.html
+CarGurus,https://status.payscale.com
+Payscale,https://status.amp.cisco.com
+Cisco,https://iridiumwhere.com/status
+Iridium,https://status.redis.com
+Redis,https://status.appen.com
+Appen,https://status.axway.com
+Axway,https://issitedownrightnow.com/status/pinelabs.com
+Pine Labs,https://statuspage.openground.bentley.com
+Bentley Systems,https://status.matrix.org
+Matrix,https://www.saashub.com/atos-status
+Atos,https://portal.office.com/servicestatus
+Microsoft,https://status.brex.com
+Brex,https://status.snowflake.com
+Snowflake,https://cloud.ibm.com/status
+IBM,https://status.salesforce.com
+Salesforce,https://statusgator.com/services/docker
+"Docker, Inc",https://status.me.sap.com
+SAP,https://www.githubstatus.com
+GitHub,https://status.multiversx.com
+Multiverse,https://updownradar.com/status/avito.ru
+Avito,https://status.zoominfo.com
+ZoomInfo,https://www.isitdownrightnow.com/bloomberg.com.html
+Bloomberg,https://connectedfleet.michelin.com/en/status
+MICHELIN Connected Fleet,https://status.entrata.com
+Entrata,https://statusgator.com/services/rippling
+Rippling,https://www.isitdownrightnow.com/youtube.com.html
+YouTube,https://status.ucsb.edu
+UC Santa Barbara,https://status.harness.io
+Harness,https://status.connect.aveva.com
+AVEVA,https://www.collibra.com/us/en/status-dashboard
+Collibra,https://status.vmware-services.io
+VMware,https://status.neo4j.io
+Neo4j,https://docaposte.betteruptime.com
+Docaposte,https://status.globant.com/login
+Globant,https://status.toasttab.com
+Toast,https://status.astra.datastax.com
+DataStax,https://status.udemy.com
+Udemy,https://status.snyk.io
+Snyk,https://status.twitch.com
+Twitch,https://www.calendlystatus.com
+Calendly,https://status.sse.cisco.com
+Cisco,https://status.postman.com
+Postman,https://www.cloudflarestatus.com
+"Cloudflare, Inc.",https://www.contentfulstatus.com
+Contentful,https://status.redhat.com
+Red Hat,https://status.kore.com
+Kore.ai,https://www.cloudbeesstatus.com
+CloudBees,https://status.quantcast.com
+Quantcast,https://status.cloudera.com
+Cloudera,https://status.okta.com
+Okta,https://status.fourkites.com
+"FourKites, Inc.",https://status.cint.com
+Cint,https://www.ionos-status.com
+IONOS,https://status.modeanalytics.com
+Mode,https://status.cashfree.com
+Cashfree Payments,https://status.one.com
+ONE,https://status.epicgames.com
+Epic Games,https://status.whatnot.com
+Whatnot,https://status.payment.schibsted.io
+Schibsted,https://status.manomano.com
+ManoMano,https://statusgator.com/services/opentext
+OpenText,https://status.cimpress.io
+Cimpress,https://status.servicetitan.com
+ServiceTitan,https://www.google.com/appsstatus/dashboard
+Google,https://discordstatus.com
+Discord,https://status.hashicorp.com
+HashiCorp,https://status.zenoti.com
+Zenoti,https://status.mongodb.com
+MongoDB,https://status.check24.de
+CHECK24 Vergleichsportal GmbH,https://status.edq.com
+Experian,https://status.wealthsimple.com
+Wealthsimple,https://status.godaddy.com
+GoDaddy,https://status.vistage.com
+"Vistage Worldwide, Inc.",https://osdatahub.os.uk/serviceStatus
+Ordnance Survey,https://status.grammarly.com
+Grammarly,https://status.dev.pro
+Dev.Pro,https://status.bolt.com
+Bolt,https://status.catonetworks.com
+Cato Networks,https://status.payoneer.com
+Payoneer,https://status.cloud.yandex.com
+Yandex,https://status.equinix.com
+Equinix,https://trust.emarsys.com
+Emarsys,https://status.tokopedia.com
+Tokopedia,https://status.box.com
+Box,https://status.ripple.moe
+Ripple,https://status.linuxfoundation.org
+The Linux Foundation,https://status.planview.com
+"Planview, Inc.",https://status.rubrik.com
+"Rubrik, Inc.",https://www.similarweb.com/website/statuspage.io
+Similarweb,https://status.boomi.com
+Boomi,https://status.criteo.com
+Criteo,https://status.databricks.com
+Databricks,https://status.bmj.com
+BMJ,https://status.wiz.io
+Wiz,https://status.edg.io
+Edgio,https://status.stripe.com
+Stripe,https://www.allegrostatus.pl
+Allegro,https://status.ifs.com
+IFS,https://status.project44.com
+project44,https://status.adobe.com
+Adobe,https://status.irobot.com
+iRobot,https://status.cloud.coveo.com
+Coveo,https://status.doctolib.com
+Doctolib,https://status.apeople.automationanywhere.com
+Automation Anywhere,https://status.1password.com
+1Password,https://status.recruitingbypaycor.com
+Paycor,https://dynatrace.status.io
+Dynatrace,https://kb.acronis.com/tag/status
+Acronis,https://status.sinch.com
+Sinch,https://status.cloud.com
+Cloud Software Group,https://status.lexisnexisrisk.com
+LexisNexis,https://status.spotpos.com
+Xplor,https://status.cohere.ai
+Cohere,https://status.coachhub.com
+CoachHub - The digital coaching platform,https://status.cognism.com
+Cognism,https://status.owndata.com
+Own Company,https://status.constantcontact.com
+Constant Contact,https://status.elastic.co
+Elastic,https://status.lusha.com
+Lusha,https://status.grafana.com
+Grafana Labs,https://www.capitalone.com/status
+Capital One,http://status.optimissa.com
+"Optimissa, Capital Markets Consulting",https://status.confluent.cloud
+Confluent,https://status.hubspot.com
+HubSpot,https://tcpsoftware.com/status
+TCP (TimeClock Plus),https://status.carta.com
+Carta,https://status.datavant.com
+Datavant,https://status.omadahealth.com
+Omada Health,https://status.insights.numerator.com
+Numerator,https://status.hunterdouglas.com
+"Hunter Douglas, Inc.",https://status.amplitude.com
+Amplitude,https://status.commercetools.com
+commercetools GmbH,https://connectedfleet.michelin.com/en/status
+Michelin,https://status.aws.amazon.com
+Amazon,https://status.qualitestgroup.com/Home/Privacy
+Qualitest,https://status.twilio.com
+Twilio,https://ocistatus.oraclecloud.com/#/
+Oracle,https://status.activecampaign.com
+ActiveCampaign,https://status.amp.cisco.com
+Cisco Systems Argentina,https://status.services.cloud.netapp.com
+NetApp,https://status.miro.com
+Miro,https://status.hginsights.com
+HG Insights,https://status.cohesity.com
+Cohesity,https://status.calm.com
+Calm,https://status.seek.com
+SEEK,https://status.sinch.com
+Sinch India,https://status.trade.tt
+Trading Technologies,https://status.victoriametrics.com
+Managed VictoriaMetrics,https://www.redditstatus.com

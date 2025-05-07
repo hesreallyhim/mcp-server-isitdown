@@ -4,6 +4,7 @@
 
 An MCP server that checks if a website is currently down by querying [www.isitdownrightnow.com](https://www.isitdownrightnow.com).
 
+[![smithery badge](https://smithery.ai/badge/@hesreallyhim/mcp-server-isitdown)](https://smithery.ai/server/@hesreallyhim/mcp-server-isitdown)
 <a href="https://glama.ai/mcp/servers/1wx4z4amkm">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/1wx4z4amkm/badge" alt="IsItDown Server MCP server" />
 </a>
@@ -21,6 +22,14 @@ The following tools are implemented:
   * **`Output`**: A string message indicating whether the website is up or down, with the last recorded downtime information
 
 ## Installation
+
+### Installing via Smithery
+
+To install IsItDown Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@hesreallyhim/mcp-server-isitdown):
+
+```bash
+npx -y @smithery/cli install @hesreallyhim/mcp-server-isitdown --client claude
+```
 
 > **Note**: This package is not currently published to a public registry. Installation is only available from source.
 
